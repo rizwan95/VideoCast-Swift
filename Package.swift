@@ -6,7 +6,7 @@
 //  Copyright © 2018年 CyberAgent, Inc. All rights reserved.
 //
 
-// swift-tools-version:5.0
+// swift-tools-version:5.2
 
 import PackageDescription
 

@@ -6,6 +6,8 @@
 //  Copyright © 2018年 CyberAgent, Inc. All rights reserved.
 //
 
+// swift-tools-version:5.0
+
 import PackageDescription
 
 let package = Package(name: "VideoCast", dependencies: [], exclude: ["Tests"])
